@@ -1,0 +1,23 @@
+*   95148f1 se resulve conflicto al modificar ultimo commit del index.html
+|\  
+| * f4df9ce Agregando las estaciones del año
+* | 8305c33 Agregando las estaciones del año con su mes
+|/  
+*   2c4b36b Resolviendo conflictos merge en ramas main/html en el archivo index.html
+|\  
+| * d2eb8d6 agregando index.js al index.html clear
+* | b134a66 agregando style al index.html
+* |   e9f6347 Merge branch 'js' "agregando script"
+|\ \  
+| * | 2d858e2 Agregando archivo js
+* | | ce9bffd agregando normalize
+* | | b85ea5b Agregando style.css
+| |/  
+|/|   
+* | 2337e1c Creando index.html
+|/  
+* 10b76c7 ignorando archivos .exe
+* 3754fbb Create LICENSE
+* c31d8fe Segundo commit mas contenido a README.md
+* 5c4b09e Agregando contenido al archivo README para un segundo commit
+* 6f59d56 mi primer commit en git

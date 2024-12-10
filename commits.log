@@ -1,0 +1,101 @@
+commit 95148f148452e2973b51b5b6ffe986fd5f83913c
+Merge: 8305c33 f4df9ce
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 22:59:04 2024 -0600
+
+    se resulve conflicto al modificar ultimo commit del index.html
+
+commit 8305c338c05bdb6b32ffa94ee987f1874be01a9c
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 22:32:45 2024 -0600
+
+    Agregando las estaciones del año con su mes
+
+commit f4df9ced5fb522777545c796ab819b6404e4adfc
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 22:32:45 2024 -0600
+
+    Agregando las estaciones del año
+
+commit 2c4b36bd89d52445ecc18d3a07b90b4d2f61d6df
+Merge: b134a66 d2eb8d6
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 22:13:52 2024 -0600
+
+    Resolviendo conflictos merge en ramas main/html en el archivo index.html
+
+commit d2eb8d63422f066784bfd846210769595dca5f2e
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 21:56:28 2024 -0600
+
+    agregando index.js al index.html
+    clear
+
+commit b134a665bf6bb233086762fbfc9f5ac6fcc85959
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 21:50:06 2024 -0600
+
+    agregando style al index.html
+
+commit e9f634759b5b5de6736c90bed21baf817b9f325d
+Merge: ce9bffd 2d858e2
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 21:16:58 2024 -0600
+
+    Merge branch 'js' "agregando script"
+
+commit 2d858e2c28653b12e2aa7d840c8d4ef40634d45f
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 20:18:43 2024 -0600
+
+    Agregando archivo js
+
+commit ce9bffdfbf1959cc86ef974c62315dc406b4866f
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 20:08:26 2024 -0600
+
+    agregando normalize
+
+commit b85ea5b1b764b8bdb116c88033b29601263dbfcd
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 20:00:47 2024 -0600
+
+    Agregando style.css
+
+commit 2337e1c47b6a77fd8fbbcd98d16f6ac0a681f922
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 18:58:21 2024 -0600
+
+    Creando index.html
+
+commit 10b76c7ccdd3895380b3568d135157e1910b10e6
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Sun Dec 8 13:25:03 2024 -0600
+
+    ignorando archivos .exe
+
+commit 3754fbb7170a76ecaa658da6b4eeafdf625bf91a
+Author: Fernando Rubio <119456871+Mshadows1991@users.noreply.github.com>
+Date:   Sun Dec 8 12:23:21 2024 -0600
+
+    Create LICENSE
+    
+    A license template was added to the directoy of the project
+
+commit c31d8fea8ba765dc03f8b345c592c5f8f33399b4
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Fri Dec 6 00:12:09 2024 -0600
+
+    Segundo commit mas contenido a README.md
+
+commit 5c4b09e4797440fc1ed02bee54d9fd38fe0a77a3
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Thu Dec 5 23:25:22 2024 -0600
+
+    Agregando contenido al archivo README para un segundo commit
+
+commit 6f59d5620e46114145851dea2268c8e5632c1531
+Author: Fernando Rubio <fernando190891@gmail.com>
+Date:   Thu Dec 5 23:09:41 2024 -0600
+
+    mi primer commit en git
